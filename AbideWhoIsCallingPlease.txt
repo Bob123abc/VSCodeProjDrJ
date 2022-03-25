@@ -27,6 +27,19 @@
   <> L:\PowerOn\ALPHA202202_1610.txt <>[]'';
   “ 1662 Fri Mar 25 2022 hx:mx ”
   [][][].. 
+  < SOME OUTPUT >
+  <> Address of launch.json %s = 'J:\VSCodeProjDrJ\.vscode\launch.json';
+  {
+  <> [2022-03-25 10:57:30.093] [main] [info] window#load: attempt to load window (id: 1)
+[2022-03-25 10:57:30.933] [main] [info] update#setState idle
+[2022-03-25 10:57:31.633] [main] [info] ExtensionHostStarterWorker created
+[2022-03-25 10:57:35.860] [main] [info] window#load: window reported ready (id: 1)
+[2022-03-25 10:57:36.251] [main] [info] Starting extension host with pid 4048 (fork() took 36 ms).
+[2022-03-25 10:57:36.251] [main] [info] ExtensionHostStarterWorker.start() took 38 ms.
+[2022-03-25 10:58:00.942] [main] [info] update#setState checking for updates
+[2022-03-25 10:58:01.033] [main] [info] update#setState idle
+<>  
+  } --Output find in View/output(WINDOW at Bottom, )
   “ 1662 Fri Mar 25 2022 11:41 ”
   < MESSAGE = OPEN ADDRESS is https://github.com/Bob123abc/VSCodeProjDrJ >(){}
 
