@@ -23,7 +23,13 @@
   https://docs.google.com/spreadsheets/d/1cmuTvxsSk0L561cIuxtNqVB7-WX8uOd475U0II38GFw/edit?pli=1#gid=1945079936&range=A981
   " A981 1662 Fri Mar 25 2022 04:30:35 " [-1919:-1910];
   “ 1662 Fri Mar 25 2022 hx:mx ”
+
+  “ 1662 Fri Mar 25 2022 hx:mx ” < HOW TO PROPERLY 'STAGE' CHANGES, AND When: HOW to commit: WHAT ORDER.DIRECTION for SYNC = 'NO DATA'.Ever.LOST? 
+  NO CLUE IF THERE IS ANY INSTRUCTIONS: Creators of Software are 'Backward and do not doc well';
   
+  <PS J:\VSCodeProjDrJ> Get-Date  <>Friday, March 25, 2022 1:53:47 PM<><><>.. END AND LEAVE THIS SPACE(); 
+  #< PREFER VS LOCATION > = J:\VSCodeProjDrJ THE WORKSPACE NAME, get from FILE EXPLORER or: ''Terminal<>
+  ' -a---           3/25/2022  1:47 PM           2142 VSCodeProjDrJ.code-workspace ' oneValue();
   <> L:\PowerOn\ALPHA202202_1610.txt <>[]'';
   “ 1662 Fri Mar 25 2022 hx:mx ”
 
