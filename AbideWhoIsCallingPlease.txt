@@ -26,7 +26,10 @@
   
   <> L:\PowerOn\ALPHA202202_1610.txt <>[]'';
   “ 1662 Fri Mar 25 2022 hx:mx ”
+  [][][].. 
   “ 1662 Fri Mar 25 2022 11:41 ”
+  < MESSAGE = OPEN ADDRESS is https://github.com/Bob123abc/VSCodeProjDrJ >(){}
+
   # SET PREPARE(CLONE){} HERE< https://github.com/Buchite-Organization0/2016.00.01LearnGit.git > to WHERE<>.. GETTING THE RIGHT ANSWERS(NOT BACKWARD
    <> like ALL NAMES <>. So far 'With GitHub';
    <> END REF TABLE<>'';
