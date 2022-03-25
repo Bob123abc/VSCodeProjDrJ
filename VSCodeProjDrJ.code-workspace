@@ -14,3 +14,35 @@
 		
 	}
 }
+
+
+/* REQUIRE: INSTRUCT: HOW TO ELIMINATE ERRORS: ONE BY ONE to Absolute Value of |TRUTH| there is only ONE NAME TO MATCH THIS VALUE();
+ * SEE HELP SOURCE GOOD FILE AT THIS ACCRESS:
+ * Or call Developer AT 479 752-7042 Today[]; email: Developer@buchite.org for Pull REQUEST ON SERVER DATA RUN<> NOW it is time to leave this file
+ ' AND ', <AutoSave = 'OFF'> Key = { Ctrl + S } kb combo: DO IT AND LEAVE
+ * <display> outWindow Debug CONSOLE CONTENT AND FIX ERRORS RIGHT<>
+ * ~./ { RELATIVE FILE RELATIONSHIP = <  > }.. FIND THE launch.json FFP(AND OPEN IT NOW); < J:\VSCodeProjDrJ\.vscode\launch.json >
+ { 
+You're running an outdated version of Node.js. We recommend upgrading for the latest bug, performance, and security fixes.
+C:\Program Files\nodejs\node.exe c:\Users\bbuch\AppData\Roaming\Code\User\settings.json
+Debugger listening on ws://127.0.0.1:53050/4423bbd2-c157-4fc7-a3ad-8ca2349e96cc
+For help see https://nodejs.org/en/docs/inspector
+module.js:674
+    throw err;
+    ^
+
+SyntaxError: c:\Users\bbuch\AppData\Roaming\Code\User\settings.json: Unexpected token / in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Object.Module._extensions..json (module.js:671:27)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Function.Module.runMain (module.js:693:10)
+    at startup (bootstrap_node.js:191:16)
+    at bootstrap_node.js:612:3
+Process exited with code 1
+
+ }
+ * <> VIEW 1 <END TIME = 13:40 CENTRAL on DAY = “ 1662 Fri Mar 25 2022 hx:mx ”> * * * ********************************** <>
+ * <>
+*/

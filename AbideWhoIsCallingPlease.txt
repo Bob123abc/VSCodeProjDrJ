@@ -26,9 +26,44 @@
   
   <> L:\PowerOn\ALPHA202202_1610.txt <>[]'';
   “ 1662 Fri Mar 25 2022 hx:mx ”
-  [][][].. 
+
+  “ 1662 Fri Mar 25 2022 13:14 ”
+  [ wsl INSTALLED with Windows Update( 'ERROR' CLEARED AND NOW may be ready ){} MUST FIND DOC.HOW and WHEN: WHERE ++(WHY would we use[]; ); .. ];
+  ++'IncreaseBOX_TABLE'<view Output >[ [2022-03-25 13:09:13.665] [settingssync] [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+    [2022-03-25 13:09:13.665] [settingssync] [info] Auto Sync is enabled.
+    [2022-03-25 13:09:13.665] [settingssync] [info] Auto Sync: Suspended until auth token is available.
+    [2022-03-25 13:09:14.243] [settingssync] [info] Auto Sync: Started
+    [2022-03-25 13:09:14.244] [settingssync] [info] Auto Sync: Triggered by Interval
+    [2022-03-25 13:09:14.937] [settingssync] [info] Settings: No changes found during synchronizing settings.
+    [2022-03-25 13:09:14.956] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+    [2022-03-25 13:09:14.970] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+    [2022-03-25 13:09:14.979] [settingssync] [info] Tasks: No changes found during synchronizing tasks.
+    [2022-03-25 13:09:14.990] [settingssync] [info] GlobalState: No changes found during synchronizing ui state.
+    [2022-03-25 13:09:15.123] [settingssync] [info] Extensions: No changes found during synchronizing extensions.
+    [2022-03-25 13:09:15.126] [settingssync] [info] Sync done. Took 238ms
+    [2022-03-25 13:11:09.915] [settingssync] [info] Auto Sync: Triggered by Activity
+    [2022-03-25 13:11:10.127] [settingssync] [info] Settings: No changes found during synchronizing settings.
+    [2022-03-25 13:11:10.135] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+    [2022-03-25 13:11:10.147] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+    [2022-03-25 13:11:10.155] [settingssync] [info] Tasks: No changes found during synchronizing tasks.
+    [2022-03-25 13:11:10.162] [settingssync] [info] GlobalState: No changes found during synchronizing ui state.
+    [2022-03-25 13:11:10.269] [settingssync] [info] Extensions: No changes found during synchronizing extensions.
+    [2022-03-25 13:11:10.271] [settingssync] [info] Sync done. Took 178ms
+    [2022-03-25 13:11:44.002] [settingssync] [info] Auto Sync: Triggered by Activity
+    [2022-03-25 13:11:44.278] [settingssync] [info] Settings: No changes found during synchronizing settings.
+    [2022-03-25 13:11:44.286] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+    [2022-03-25 13:11:44.298] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+    [2022-03-25 13:11:44.306] [settingssync] [info] Tasks: No changes found during synchronizing tasks.
+    [2022-03-25 13:11:44.313] [settingssync] [info] GlobalState: No changes found during synchronizing ui state.
+    [2022-03-25 13:11:44.406] [settingssync] [info] Extensions: No changes found during synchronizing extensions.
+    [2022-03-25 13:11:44.408] [settingssync] [info] Sync done. Took 153ms
+   ]; <>##,## NEXT OBJECT BELOW();
+  'THEN' FIX telemetry Problems on View/ Output Window'ENABLED' [].. 
+  ++[ view {} settings.json(3) FILE OPEN IN EDITOR. DO NOT KNOW: What one it is[]; ][].. 
   < SOME OUTPUT >
-  <> Address of launch.json %s = 'J:\VSCodeProjDrJ\.vscode\launch.json';
+  <> Address of launch.json %s = 'J:\VSCodeProjDrJ\.vscode\launch.json'; 'THINK' this is FOR SYNC SETTINGS( WANT TO TRUN OFF MOST OF THESE: 
+  1. CHECK ALL 'ignore' on EACH FILE for this JOB: SYSTEM[]; VSCode Workspace Place today[][][]
+  ); 
   {
   <> [2022-03-25 10:57:30.093] [main] [info] window#load: attempt to load window (id: 1)
 [2022-03-25 10:57:30.933] [main] [info] update#setState idle
