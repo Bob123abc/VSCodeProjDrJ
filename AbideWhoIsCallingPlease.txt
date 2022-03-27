@@ -67,10 +67,16 @@
 ################ ' DATE BOX BLOCKS COLLECT: n d .BOXES[]; ' ############################################################
 [ 1664 Sun Mar 27 2022 ].[ Good Morning God. This is Your day, show us Your way() {
   https://docs.google.com/spreadsheets/d/1cmuTvxsSk0L561cIuxtNqVB7-WX8uOd475U0II38GFw/edit?pli=1#gid=1945079936&range=A1003
-  " A1003 1664 Sun Mar 27 2022 04:24:00 " [-1899:-1890];
+  " A1003 1664 Sun Mar 27 2022 04:24:00 " [-1899:-1890];   '<[ SABBATH DAY ]>'; ..DATA COLLECTION, getting[][][].JesusValues:..\n;
   “ 1664 Sun Mar 27 2022 hx:mx ”
+  “ 1664 Sun Mar 27 2022 hx:mx ”
+  #[19] of 90[1664 Sun Mar 27 2022 06:47 3 -1897 K1006 ] Lines(6743:#ed)[ https://my.bible.com/moments/3923567011603097055 ]# ++<formatting>.ACTIVE
+  <>; PULL FIRST(); THEN SEND COMMIT..UP?
   “ 1664 Sun Mar 27 2022 06:23 ” #.NewOutFile and DIRECTORY ADDED TO .git/RESOURCES: HOEP for $GRATEFUL{} 'FILE collection, ENABLE'; [..];
-  '<[ SABBATH DAY ]>';
+  <> path to:ACTION, FILE 3 LOCAL: D:\00UsrAbiding\AbidingWordBible2023A.txt
+  'BIBLE READING' ACTIVE PLAN working on INDEX[UPDATE][FILE, 0]; 'FILE TABLE[][][]..'(ACTIVE); THIS DAY is FOR SERVE JESUS(); 'ABSOLUTELY TRUE';
+  [], "", .. '[<|""|>]'; #. MEANING: " THE VALUE OF JESUS CHRIST and HIS Power of ABSOLUTE TRUTH, Living, daily.. "; END LINE, BREAK( in 'SABBATH DAY', ..);
+
   “ 1664 Sun Mar 27 2022 05:34 ” SEE GIT DATA on Output WINDOW<> #NEW FILE ADDED STAGED AND COMMITTED<><><>
   Path is? J:\VSCodeProjDrJ\GettingStartDir\WorkingMAP.txt <> to TRUTH this SABBATH DAY.. JESUS is MY LORD and The GIFT OF THE HOLY SPIRIT ..
   , is:[]''; INVITED HERE( TEACH ME TO SEE LORD JESUS, Son of the LIVING GOD, Our FATER, daily.. ); TO TABLE OF VICTORY[].CREATE with FILE <var>
