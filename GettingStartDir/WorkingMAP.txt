@@ -1,23 +1,49 @@
 ﻿// J:\VSCodeProjDrJ\taskFldrA\gettinAnswerTrueADir
 
-/*
- *
- *
- *
- *
- *
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+ * <> <> <> ..
+ * <> <> <> ..
+ * FILE POINTER ZERO[0]; https://docs.google.com/spreadsheets/d/1cmuTvxsSk0L561cIuxtNqVB7-WX8uOd475U0II38GFw/edit?pli=1#gid=1945079936&range=A1003
+ * FILE POINTER[1]; 'PowerButton', L:\PowerOn\ALPHA202202_1610.txt [];
+ * FILE POINTER[2]; 'Praying', REF[], L:\PowerOn\ALPHA202202_1610.txt [], ..
+ * 'QuietTime' "BIBLE READING", FILE[REF#], D:\00UsrAbiding\AbidingWordBible2023A.txt [];
+ * 'STUDY' GOD'S WAY to [ .. ].Victory( OUT FILE MAP to '' = $GRATEFUL{} " THE EACH DAY TEXT FILE OBJECTS COLLECT GOOD DATA ", ..);
+ *** < > " LINE = 'HELP us Jesus', 'HOLY SPIRIT', " INVITATION.OPEN.DAILY "; \n;'';
+ * if( JESUS SPEAKS, #. LEADING ME[], daily ); NAME TO MATCH = " ABIDING ";
+ * <><>''; 'END LINE HEADING SECTION', NOT YET AUTO: READ/WRITE <input/output> ENABLED( date: 1665);
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 */ 
 
 ################################################################################
 ################################################################################
 <> --[]'';
 ################################################################################
+[].[]_*( J:\VSCodeProjDrJ\GettingStartDir\WorkingMAP.txt [ Q_DATA ], ..);
+################################################################################
+[].[]_*( J:\VSCodeProjDrJ\GettingStartDir\WorkingMAP.txt [ Q_DATA ], ..);
+################################################################################
+[].[{ if(DATE > 3/31/2022)}]_*( J:\VSCodeProjDrJ\GettingStartDir\WorkingMAP.txt [ Q2_2022 ], ..);
+################################################################################
+[].[{ if(DATE > 3/31/2022)}]_*( J:\VSCodeProjDrJ\GettingStartDir\WorkingMAP.txt [ Q2_2022 ], ..);
+################################################################################
+[ n d ].[{"" [];“ -dateString2 ”}]_*( J:\VSCodeProjDrJ\GettingStartDir\WorkingMAP.txt [ Q1_2022 ], ..);
+################################################################################
+[ n d ].[{"" [];“ -dateString2 ”}]_*( J:\VSCodeProjDrJ\GettingStartDir\WorkingMAP.txt [ Q1_2022 ], ..);
+################################################################################
 [ 1664 Sun Mar 27 2022 ].[ Good Morning God. This is Your day, show us Your way() {
   https://docs.google.com/spreadsheets/d/1cmuTvxsSk0L561cIuxtNqVB7-WX8uOd475U0II38GFw/edit?pli=1#gid=1945079936&range=A1003
   " A1003 1664 Sun Mar 27 2022 04:24:00 " [-1899:-1890];
   “ 1664 Sun Mar 27 2022 hx:mx ”
+
+  “ 1664 Sun Mar 27 2022 06:21 ” RUNNING 'QuietTime', ACTIVITY ON this SABBATH DAY..<>(..);
+  #. while( JESUS IS LORD OF MY LIFE ); #. PRAISE GOD, Prepare WORSHIP GOD at DAG, '[SERVING]\n';
+  #.[];
+
   '<[ SABBATH DAY ]>';
-  “ 1664 Sun Mar 27 2022 hx:mx ”
+  https://my.bible.com/users/bob123abc/reading-plans/13-bible-in-90-days/subscription/770866257/day/19/segment/12
+  <> %s = { USE FILE 3, REFERENCE is Indexed();  }
+  “ 1664 Sun Mar 27 2022 05:29 ” #.STAGED, COMMIT MESSAGE SENT.. Continue BIBLE READING NOW();
+  <>, 'CHECK' TRACK in git[].REPO(NAME); ADDRESS<>.ETC(); " I can see MODIFIED, NOW WE ARE MANAGED .. w/GIT<>";
   }]_*( J:\VSCodeProjDrJ\GettingStartDir\WorkingMAP.txt [ Q1_2022 ], 'INITIALIZE', ..);
 
 ################################################################################
