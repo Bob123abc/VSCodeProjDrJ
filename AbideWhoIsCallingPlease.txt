@@ -34,6 +34,14 @@
 ################ ' PREPARATION Q2_2022 OBJECT TABLE ' ##########################################################################################################
   ## ' SETTING WIDE = 120; CHARS BELOW, SINGLE WIDE EVERYWHERE. I hope(); IN THE NAME OF JESUS CHRIST THIS DAY.. ..'  ##
   |<>|
+  'SETTING' -Output PATH: {
+     <> GettingStartDir <> .RELATIVE DIRECTORY THIS DAY:"";
+  .ffp(); J:\VSCodeProjDrJ\GettingStartDir\WorkingMAP.txt #CREATED dateString = %s of:
+   < " A1003 1664 Sun Mar 27 2022 04:24:00 " [-1899:-1890]; “ 1664 Sun Mar 27 2022 hx:mx ” '<[ SABBATH DAY ]>'; >
+   '', "", ..<>; END COLLECTION();
+  ++'[<  >]';
+  } |<>| 'ABSOLUTELY'; JESUS IS TRUE LORD OVER THE SABBATH<>'';
+  
 
 ################ ' DATE BOX BLOCKS COLLECT: n d .BOXES[]; ' ############################################################
 [].[..{ “ ”}]_*( J:\VSCodeProjDrJ\AbideWhoIsCallingPlease.txt [ Q2_2022 ], ..);
@@ -57,18 +65,23 @@
 ################ ' DATE BOX BLOCKS COLLECT: n d .BOXES[]; ' ############################################################
 [].[{}]_*( J:\VSCodeProjDrJ\AbideWhoIsCallingPlease.txt [ Q1_2022 ], ..);
 ################ ' DATE BOX BLOCKS COLLECT: n d .BOXES[]; ' ############################################################
-[].[{}]_*( J:\VSCodeProjDrJ\AbideWhoIsCallingPlease.txt [ Q1_2022 ], ..);
+[ 1664 Sun Mar 27 2022 ].[ Good Morning God. This is Your day, show us Your way() {
+  https://docs.google.com/spreadsheets/d/1cmuTvxsSk0L561cIuxtNqVB7-WX8uOd475U0II38GFw/edit?pli=1#gid=1945079936&range=A1003
+  " A1003 1664 Sun Mar 27 2022 04:24:00 " [-1899:-1890];
+  “ 1664 Sun Mar 27 2022 hx:mx ”
+  '<[ SABBATH DAY ]>';
+  “ 1664 Sun Mar 27 2022 hx:mx ”
+  }]_*( J:\VSCodeProjDrJ\AbideWhoIsCallingPlease.txt [ Q1_2022 ], ..);
+
 ################ ' DATE BOX BLOCKS COLLECT: n d .BOXES[]; ' ############################################################
 [ 1663 Sat Mar 26 2022 ].[ Good Morning God. This is Your day, show us Your way() {
   https://docs.google.com/spreadsheets/d/1cmuTvxsSk0L561cIuxtNqVB7-WX8uOd475U0II38GFw/edit?pli=1#gid=1945079936&range=A992
   " A992 1663 Sat Mar 26 2022 04:47:42 " [-1909:-1900];
-  “ 1663 Sat Mar 26 2022 hx:mx ”
-  “ 1663 Sat Mar 26 2022 hx:mx ”
-  “ 1663 Sat Mar 26 2022 06:56 ” < POINTER LOCAL -path.. J:\VSCodeProjDrJ\taskFldrA\gettinAnswerTrueADir >()
-  { 
+  “ 1663 Sat Mar 26 2022 23:59 ” 'END DATA ENTRY' <> GRATEFUL(); DATA COLLECTING();
 
-  }
-  < MAP TO -g, 'GLOBAL' > TEMP DIR ffp = %s{}.HOW TO KNOW: FOR'JESUS<type of sure: |< " ABSOLUTELY TRUE ">|';
+  J:\VSCodeProjDrJ <DIRECTORY>.?:'PROPERTIES'? how(); 
+  “ 1663 Sat Mar 26 2022 06:56 ” < POINTER LOCAL -path.. J:\VSCodeProjDrJ\taskFldrA\gettinAnswerTrueADir >()
+  {}  < MAP TO -g, 'GLOBAL' > TEMP DIR ffp = %s{}.HOW TO KNOW: FOR'JESUS<type of sure: |< " ABSOLUTELY TRUE ">|';
   #. getting the POINTER TO ABSOLUTE VALUE OF TRUTH, FILE VAR ' $GRATEFUL{} ';
   #. WITH ALL REQUIRED KNOWLEDGE( JESUS CHRIST IS LORD );
   while we <BUILD> AND LEARN and LOVE others as JESUS CHRIST teaches..||'';
