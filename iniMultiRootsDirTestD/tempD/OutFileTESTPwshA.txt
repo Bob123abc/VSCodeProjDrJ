@@ -1,0 +1,34 @@
+﻿
+
+#''#### /? WILL THERE BE INSTRUCTION? Next DAY[]..[]\n;
+[].[{
+  #.MODEL DATA LINES.
+  #'';#'';########[]\n;
+  }]_*( #Idx:[], i, D:\00UsrAbiding\tempD\OutFileTESTPwshA.txt [ Q1_2022], ..);
+  
+################################################################################
+#''####
+#''####
+
+################################################################################
+#''####
+[ 1644 Mon Mar 07 2022 ].[ Good Morning God. This is Your day, show us Your way() {
+  https://docs.google.com/spreadsheets/d/1cmuTvxsSk0L561cIuxtNqVB7-WX8uOd475U0II38GFw/edit?pli=1#gid=1945079936&range=A783
+  " A783 1644 Mon Mar 07 2022 05:49:07 "; [-2099:-2090];
+  “ 1644 Mon Mar 07 2022 hx:mx ”
+  {“ ”, “ ”, “ ”, “ ”, ..#.
+   “ 1644 Mon Mar 07 2022 hx:mx ”, “ ”, “ ”
+  } “ 1644 Mon Mar 07 2022 hx:mx ”
+
+  “ 1644 Mon Mar 07 2022 hx:mx ”
+  }]_*( #Idx:[], i, D:\00UsrAbiding\tempD\OutFileTESTPwshA.txt [ Q1_2022], ..);
+  
+################################################################################
+## Let us CREATE AN OUTPUT FILE: 
+  ## Get-Command | Out-File -FilePath D:\00UsrAbiding\tempD\OutFileTESTPwshA.txt
+  # < https://docs.google.com/spreadsheets/d/1cmuTvxsSk0L561cIuxtNqVB7-WX8uOd475U0II38GFw/edit?pli=1#gid=1945079936&range=A728 >
+  { " A728 1639 Wed Mar 02 2022 05:31:21 "; [-2149:-2140]; 
+  (){ " A278 "} [];
+  }
+
+  #[]_*( D:\00UsrAbiding\tempD\OutFileTESTPwshA.txt [ Q1_2022 ], ..);
